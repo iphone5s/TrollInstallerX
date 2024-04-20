@@ -1,4 +1,4 @@
-module XPC [system] [extern_c] {
+module XPC2 [system] [extern_c] {
 	header "xpc.h"
 	header "availability.h"
 	header "base.h"
